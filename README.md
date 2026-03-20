@@ -6,3 +6,5 @@ It consist of ;
 - Project page displays some of the projects that I've worked on.
 - Contact consist of my contact details (email,phone number).
 - Social Media contains link to my instagram and linkedIn profile.
+# PROJECT LINK
+https://krishnajayakumar2006.github.io/Portfolio/
