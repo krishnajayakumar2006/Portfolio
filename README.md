@@ -1,10 +1,10 @@
 # Portfolio
-This project is a portfolio cointaining details related to myself.
-It consist of ;
+This project is a portfolio containing details related to myself.
+It consists of;
 - home page or main screen containing profile picture, etc.
-- About Me containing details related to my education , intrest , skills,etc.
+- About Me containing details related to my education, interest, skills, etc.
 - Project page displays some of the projects that I've worked on.
-- Contact consist of my contact details (email,phone number).
-- Social Media contains link to my instagram and linkedIn profile.
+- Contact consists of my contact details (email,phone number).
+- Social media contains link to my Instagram and LinkedIn profile.
 # PROJECT LINK
 https://krishnajayakumar2006.github.io/Portfolio/
